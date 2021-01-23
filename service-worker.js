@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kraiviks-v.com/precache-manifest.19b5a33564a2230cfa18357e17375d82.js"
+  "/precache-manifest.c080e31f46e9e3251de98861727585cb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kraiviks-v.com"});
