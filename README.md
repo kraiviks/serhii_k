@@ -2,9 +2,7 @@
 
 # Open portfolio:
 
-```
 [serhii_k](https://kraiviks.github.io/serhii_k/)
-```
 
 ## Project setup
 
