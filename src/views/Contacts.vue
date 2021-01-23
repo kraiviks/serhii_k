@@ -1,10 +1,10 @@
 <template>
   <v-container fluid>
     <v-card max-width="300px" class="mx-auto">
-      <v-img :src="require('@/assets/photo.jpg')" height="300px">
+      <v-img :src="require('@/assets/Avatar.png')" height="300px">
         <span
           class="headline pl-4 pt-4 d-inline-block"
-          v-text="'Serhii'"
+          v-text="'Name'"
           style="color: #4fbeac"
         ></span>
       </v-img>
@@ -49,11 +49,13 @@ export default {
   name: "Contacts",
   data: () => ({
     dialog:false,
-    email: "kraiviks@gmail.com",
+    email: "",
+    email1: "kraiviks@gmail.com",
     contacts: [
       {
         name: "instagram",
-        link: "https://www.instagram.com/kostiv_serhii",
+        link: "",
+        link1: "https://www.instagram.com/kostiv_serhii",
         icon: "mdi-instagram",
         color: "red lighten-3",
       },
@@ -64,7 +66,8 @@ export default {
       },
       {
         name: "facebook",
-        link: "https://www.facebook.com/kraiviks",
+        link: "",
+        link1: "https://www.facebook.com/kraiviks",
         icon: "mdi-facebook",
         color: "indigo",
       },

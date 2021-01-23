@@ -11,7 +11,7 @@
         size="42"
         style="cursor: pointer"
       >
-        <img src="./assets/photo.jpg" alt="Avatar" />
+        <img src="./assets/Avatar.png" alt="Avatar" />
       </v-avatar>
       <router-link :to="'/'">
         <div class="logo d-none d-sm-flex">Kraiviks</div>

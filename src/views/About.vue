@@ -16,7 +16,7 @@
                   tile
                 >
                   <v-img
-                    :src="require('@/assets/photo.jpg')"
+                    :src="require('@/assets/Avatar.png')"
                     size="164"
                   ></v-img>
                 </v-avatar>
@@ -31,7 +31,8 @@
                 >
                   <v-list-item-content>
                     <v-list-item-title class="title">
-                      Serhii Kostiv
+                      <!-- Serhii Kostiv -->
+                      Name
                     </v-list-item-title>
                     <v-list-item-subtitle
                       >front-end developer</v-list-item-subtitle
@@ -53,11 +54,17 @@
         >
           <h3 class="ml-10 mb-5 mt-2">About me</h3>
           <div class="ml-10 d-flex flex-column align-start">
-            <p class="about-p">Serhii Kostiv</p>
+            <!-- <p class="about-p">Serhii Kostiv</p>
             <p class="about-p">24 years</p>
             <p class="about-p">from: Ukraine</p>
             <p class="about-p">
               Вивчаю <i>front-end</i> розробку, з дитинства інтересуюсь ІТ, обожнюю Хаскі 🐺 
+            </p> -->
+            <p class="about-p">
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam
+              quis provident voluptas ex incidunt molestiae natus, laudantium
+              enim, earum asperiores voluptatibus? Dignissimos repellat earum at
+              voluptas, ipsa rerum facere repellendus!
             </p>
           </div>
         </v-card>
