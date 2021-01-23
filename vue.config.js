@@ -4,7 +4,7 @@ module.exports = {
   ],
 
   pwa: {
-    name: 'kraiviks-v.com',
+    name: 'serhii_k',
     themeColor: '#4FBEAC',
     msTileColor: '#7A7A7A',
     manifestOptions: {
@@ -12,6 +12,6 @@ module.exports = {
     }
   },
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/kraiviks-v.com/'
+    ? '/serhii_k/'
     : '/'
 }
