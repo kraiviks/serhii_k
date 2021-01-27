@@ -50,10 +50,10 @@
         <v-card
           max-width="400px"
           height="300px"
-          class="mx-auto d-flex flex-column align-start"
+          class="mx-auto d-flex flex-column align-start pa-10"
         >
-          <h3 class="ml-10 mb-5 mt-2">About me</h3>
-          <div class="ml-10 d-flex flex-column align-start">
+          <h3 class="mb-5 mt-2">About me</h3>
+          <div class="d-flex flex-column align-start">
             <!-- <p class="about-p">Serhii Kostiv</p>
             <p class="about-p">24 years</p>
             <p class="about-p">from: Ukraine</p>

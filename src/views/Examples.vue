@@ -9,7 +9,7 @@
         md="4"
       >
         <v-card>
-          <a :href="item.link" target="_blank">
+          <a :href="item.link">
             <img :src="item.src" width="100%"/>
             <v-card-title>
               <v-icon v-text="item.icon"></v-icon>
