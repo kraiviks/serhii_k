@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/serhii_k/precache-manifest.32d7584a1472e1ca1a514860dc96916f.js"
+  "/serhii_k/precache-manifest.1ca11117dcddac700c9b3e141d450b5b.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "kraiviks-v.com"});
+workbox.core.setCacheNameDetails({prefix: "serhii_k"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
