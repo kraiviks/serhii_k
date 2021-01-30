@@ -1,7 +1,10 @@
 <template>
   <v-container fluid>
     <v-card max-width="300px" class="mx-auto">
-      <v-img :src="require('@/assets/Avatar.png')" height="300px">
+      <v-img
+       :src="require('@/assets/Avatar.png')"
+       :lazy-src="require('@/assets/Avatar.png')"
+       height="300px">
         <span
           class="headline pl-4 pt-4 d-inline-block"
           v-text="'Name'"

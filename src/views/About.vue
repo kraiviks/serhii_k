@@ -17,6 +17,7 @@
                 >
                   <v-img
                     :src="require('@/assets/Avatar.png')"
+                    :lazy-src="require('@/assets/Avatar.png')"
                     size="164"
                   ></v-img>
                 </v-avatar>
