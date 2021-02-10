@@ -96,7 +96,7 @@ export default {
       "JS, Vue JS(Vuex,Vuetify)",
       "webpack",
       'Основи PHP / Laravel',
-      'Основи работы с БД (MySQL)'
+      'Основи работы с DB (MySQL)'
     ],
   }),
 };
