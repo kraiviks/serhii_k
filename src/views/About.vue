@@ -95,8 +95,8 @@ export default {
       "Bootstrap",
       "JS, Vue JS(Vuex,Vuetify)",
       "webpack",
-      'Основы PHP / Laravel',
-      'Основы работы с БД (MySQL)'
+      'Основи PHP / Laravel',
+      'Основи работы с БД (MySQL)'
     ],
   }),
 };
