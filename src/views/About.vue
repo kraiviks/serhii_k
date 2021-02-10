@@ -71,7 +71,7 @@
         </v-card>
       </v-col>
       <v-col cols="12" sm="6"
-        ><v-list max-width="400px" height="300px" class="mx-auto">
+        ><v-list max-width="400px" class="mx-auto">
           <v-list-item-group color="indigo">
             <v-list-item-title style="font-weight: bold"
               >My skills:</v-list-item-title
@@ -95,6 +95,8 @@ export default {
       "Bootstrap",
       "JS, Vue JS(Vuex,Vuetify)",
       "webpack",
+      'Основы PHP / Laravel',
+      'Основы работы с БД (MySQL)'
     ],
   }),
 };
