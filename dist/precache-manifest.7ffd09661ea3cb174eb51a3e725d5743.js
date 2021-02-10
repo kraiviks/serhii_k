@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/serhii_k/css/about.01cf6fd8.css"
   },
   {
-    "revision": "742110297c97248e111b",
+    "revision": "7f438e3119f395c9631a",
     "url": "/serhii_k/css/app.8953980f.css"
   },
   {
@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/serhii_k/img/vue-app-vuetify.cd574f5d.png"
   },
   {
-    "revision": "070cb04ed2c33311a16ebbe55875c1f8",
+    "revision": "e63e3b51da7e251f2d3b4e2959c8f332",
     "url": "/serhii_k/index.html"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/serhii_k/js/about.a9a9701c.js"
   },
   {
-    "revision": "742110297c97248e111b",
-    "url": "/serhii_k/js/app.81dd52d1.js"
+    "revision": "7f438e3119f395c9631a",
+    "url": "/serhii_k/js/app.18550983.js"
   },
   {
     "revision": "35031730657b2378e20f",
