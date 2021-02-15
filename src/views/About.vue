@@ -36,7 +36,7 @@
                       Name
                     </v-list-item-title>
                     <v-list-item-subtitle
-                      >front-end developer</v-list-item-subtitle
+                      >Web developer</v-list-item-subtitle
                     >
                   </v-list-item-content>
                 </v-list-item>
